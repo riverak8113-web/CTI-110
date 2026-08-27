@@ -8,6 +8,13 @@
 - 2 Slices of whole wheat bread
 - Sandwich Grill
 
+## Assumptions
+- Ingredients already bought
+- All ingredients are out and placed on the counter
+- Sandwich Grill has been bought and user knows how to operate it
+- Plate was originally bought
+- Plate is already on the counter
+
 ## Instructions
 1. Place 1 slice of whole wheat bread on the plate
 2. Place a slice of Ham on top of the slice of bread
